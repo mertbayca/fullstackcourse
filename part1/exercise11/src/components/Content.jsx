@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Content = () {
+const Content = () => {
     return (
       <div>
         <Part />
@@ -9,6 +9,5 @@ const Content = () {
       </div>
     )
 }
-  
 
 export default Content
